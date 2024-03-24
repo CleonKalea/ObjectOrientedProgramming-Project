@@ -4,7 +4,7 @@ from bank import Bank
 
 bank = Bank()
 print()
-print("Welcome to {}!".format(bank.name))
+print("Welcome to the {}!".format(bank.name))
 print()
 running = True
 while running:
